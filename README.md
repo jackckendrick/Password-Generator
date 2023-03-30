@@ -13,7 +13,7 @@ Screen-Shot of password generator webpage:
 src = "./images/ScreenShot/"
 
 Deployed link:
-https://jackkkendrick.github.io/Password-Generator/
+https://jackckendrick.github.io/Password-Generator/
 
 Repository Link: 
-https://github.com/jackkkendrick/Password-Generator
+https://github.com/jackckendrick/Password-Generator
